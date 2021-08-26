@@ -1,0 +1,135 @@
+<Purchase_Order xmlns="">
+	<File_Header>
+		<Message_Date>20161209</Message_Date>
+		<Message_Time>145636</Message_Time>
+		<Company>100</Company>
+	</File_Header>
+	<Purchase_Order_Header>
+		<Purchase_Order_Number>1010326</Purchase_Order_Number>
+		<Supplier_Number>200841</Supplier_Number>
+		<Payee_Number/>
+		<Order_Date>20161209</Order_Date>
+		<Requested_Delivery_Date>20161209</Requested_Delivery_Date>
+		<Buyer>PARTS</Buyer>
+		<Buyer_Name/>
+		<Our_Reference/>
+		<Your_Reference/>
+		<Warehouse>489</Warehouse>
+		<Warehouse_Name>VN11 0296 DEAN</Warehouse_Name>
+		<Country>GB</Country>
+		<Country_Name>GREAT BRITAIN</Country_Name>
+		<Currency>GBP</Currency>
+		<Currency_Name>POUND STERLING</Currency_Name>
+		<Total_Order_Cost>28.75</Total_Order_Cost>
+		<Payment_Terms>Z4</Payment_Terms>
+		<Payment_Terms_Name>30 DAYS EOM</Payment_Terms_Name>
+		<Delivery_Method>1N4</Delivery_Method>
+		<Delivery_Method_Name>Standard</Delivery_Method_Name>
+		<Delivery_Terms>FOB</Delivery_Terms>
+		<Delivery_Terms_Name>FOB</Delivery_Terms_Name>
+		<Freight_Terms>000</Freight_Terms>
+		<Freight_Terms_Name>NONE</Freight_Terms_Name>
+		<Packaging_Terms/>
+		<Packaging_Terms_Name>NOT APPLICABLE</Packaging_Terms_Name>
+		<Phone_Number>01206 795949</Phone_Number>
+		<Fax_Number>01206 863859</Fax_Number>
+		<Order_Type>P02</Order_Type>
+		<Order_Category>20</Order_Category>
+		<Addresses>
+			<Supplier_Address>
+				<Name/>
+				<Address_Line_1/>
+				<Address_Line_2/>
+				<Address_Line_3/>
+				<Address_Line_4/>
+				<Post_Code/>
+			</Supplier_Address>
+			<Delivery_Address>
+				<Name>DXBD 0296</Name>
+				<Address_Line_1/>
+				<Address_Line_2/>
+				<Address_Line_3/>
+				<Address_Line_4/>
+				<Post_Code/>
+			</Delivery_Address>
+			<Payee_Address>
+				<Name/>
+				<Address_Line_1/>
+				<Address_Line_2/>
+				<Address_Line_3/>
+				<Address_Line_4/>
+				<Post_Code/>
+			</Payee_Address>
+		</Addresses>
+	</Purchase_Order_Header>
+	<Purchase_Order_Lines>
+		<Line_Number>1</Line_Number>
+		<Item_Number>34.3182-20</Item_Number>
+		<Item_Description>6 X 1 CSK</Item_Description>
+		<Supplier_Item_Number>34.3182-20</Supplier_Item_Number>
+		<Supplier_Item_Description>6 X 1 CSK</Supplier_Item_Description>
+		<Order_Quantity>1</Order_Quantity>
+		<Purchase_Price>0.60</Purchase_Price>
+		<Line_Amount>0.60</Line_Amount>
+		<Supplier_Order_Number/>
+		<Reference_Order_Category>0</Reference_Order_Category>
+		<Reference_Order_Number/>
+		<Reference_Order_Line>0</Reference_Order_Line>
+	</Purchase_Order_Lines>
+	<Purchase_Order_Lines>
+		<Line_Number>2</Line_Number>
+		<Item_Number>34.3183-20</Item_Number>
+		<Item_Description>8 X 1 CSK</Item_Description>
+		<Supplier_Item_Number>34.3183-20</Supplier_Item_Number>
+		<Supplier_Item_Description>8 X 1 CSK</Supplier_Item_Description>
+		<Order_Quantity>1</Order_Quantity>
+		<Purchase_Price>0.70</Purchase_Price>
+		<Line_Amount>0.70</Line_Amount>
+		<Supplier_Order_Number/>
+		<Reference_Order_Category>0</Reference_Order_Category>
+		<Reference_Order_Number/>
+		<Reference_Order_Line>0</Reference_Order_Line>
+	</Purchase_Order_Lines>
+	<Purchase_Order_Lines>
+		<Line_Number>3</Line_Number>
+		<Item_Number>34.3184-20</Item_Number>
+		<Item_Description>10 X 1 CSK</Item_Description>
+		<Supplier_Item_Number>34.3184-20</Supplier_Item_Number>
+		<Supplier_Item_Description>10 X 1 CSK</Supplier_Item_Description>
+		<Order_Quantity>1</Order_Quantity>
+		<Purchase_Price>0.90</Purchase_Price>
+		<Line_Amount>0.90</Line_Amount>
+		<Supplier_Order_Number/>
+		<Reference_Order_Category>0</Reference_Order_Category>
+		<Reference_Order_Number/>
+		<Reference_Order_Line>0</Reference_Order_Line>
+	</Purchase_Order_Lines>
+	<Purchase_Order_Lines>
+		<Line_Number>4</Line_Number>
+		<Item_Number>34.3185-20</Item_Number>
+		<Item_Description>12 X 1 CSK</Item_Description>
+		<Supplier_Item_Number>34.3185-20</Supplier_Item_Number>
+		<Supplier_Item_Description>12 X 1 CSK</Supplier_Item_Description>
+		<Order_Quantity>1</Order_Quantity>
+		<Purchase_Price>1.10</Purchase_Price>
+		<Line_Amount>1.10</Line_Amount>
+		<Supplier_Order_Number/>
+		<Reference_Order_Category>0</Reference_Order_Category>
+		<Reference_Order_Number/>
+		<Reference_Order_Line>0</Reference_Order_Line>
+	</Purchase_Order_Lines>
+	<Purchase_Order_Lines>
+		<Line_Number>7</Line_Number>
+		<Item_Number>38.4058</Item_Number>
+		<Item_Description>EMERY SHEET 300GR</Item_Description>
+		<Supplier_Item_Number>38.4058</Supplier_Item_Number>
+		<Supplier_Item_Description>EMERY SHEET 300GR</Supplier_Item_Description>
+		<Order_Quantity>3</Order_Quantity>
+		<Purchase_Price>0.50</Purchase_Price>
+		<Line_Amount>1.50</Line_Amount>
+		<Supplier_Order_Number/>
+		<Reference_Order_Category>0</Reference_Order_Category>
+		<Reference_Order_Number/>
+		<Reference_Order_Line>0</Reference_Order_Line>
+	</Purchase_Order_Lines>
+</Purchase_Order>
